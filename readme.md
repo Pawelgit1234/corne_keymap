@@ -7,22 +7,22 @@ This is my personal [Vial](https://get.vial.today/) configuration for a [Corne K
 ## The Keymap
 
 ### Base Layer
-![corne.png](images/keyboard_1.jpg)
+![corne.png](images/keyboard_1.png)
 
 ### Symbol Layer
-![corne.png](images/keyboard_2.jpg)
+![corne.png](images/keyboard_2.png)
 
 ### Functional Layer
-![corne.png](images/keyboard_3.jpg)
+![corne.png](images/keyboard_3.png)
 
 ### Keyboard and Mouse Layer
-![corne.png](images/keyboard_4.jpg)
+![corne.png](images/keyboard_4.png)
 
 ### Numpad Layer
-![corne.png](images/keyboard_5.jpg)
+![corne.png](images/keyboard_5.png)
 
 ### First Game Layer
-![corne.png](images/keyboard_6.jpg)
+![corne.png](images/keyboard_6.png)
 
 ### Second Game Layer
-![corne.png](images/keyboard_7.jpg)
+![corne.png](images/keyboard_7.png)
